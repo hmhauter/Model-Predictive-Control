@@ -7,7 +7,7 @@ on this model. As a programming language MATLAB with Simulink and the optimizati
 ## System 
 ```
 An overview of the system is given by: 
-![alt text](https://github.com/hmhauter/Model-Predictive-Control/raw/main/figures/MPC.png "Overview of the model with the Controller.")
+![alt text](https://raw.githubusercontent.com/hmhauter/Model-Predictive-Control/main/figures/MPC.png "Overview of the model with the Controller.")
 
 ```
 
