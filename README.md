@@ -5,11 +5,9 @@ Model Predictive Control (MPC) is being used more and more in various areas of i
 on this model. As a programming language MATLAB with Simulink and the optimization library CasADi was chosen.
 
 ## System 
-```
 An overview of the system is given by: 
-![alt text](https://raw.githubusercontent.com/hmhauter/Model-Predictive-Control/main/figures/MPC.png "Overview of the model with the Controller.")
+![ScreenShot](/figures/MPC.png "Overview of the model with the Controller.")
 
-```
 
 ### Disclaimer
 Some functions that are used come from a non open-source library. To run the project this library would need to be installed first.
